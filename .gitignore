@@ -1,0 +1,59 @@
+# ===============================
+# Gradle / Spring Boot
+# ===============================
+# Gradle build folder
+/build/
+.gradle/
+gradle-wrapper.jar
+
+# Spring Boot executable jars
+*.jar
+*.war
+
+# Gradle cache files (optional, usually local)
+.gradle/
+build/
+
+# ===============================
+# IDE / Editor
+# ===============================
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# VS Code
+.vscode/
+
+# ===============================
+# OS / System files
+# ===============================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ===============================
+# Logs and temporary files
+# ===============================
+*.log
+tmp/
+*.tmp
+*.bak
+
+# ===============================
+# Optional: Environment and secrets
+# ===============================
+.env
+*.env
